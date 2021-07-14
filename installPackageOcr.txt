@@ -1,0 +1,12 @@
+# If you have cuda9 or cuda10 installed on your machine, please run the following command to install
+!pip install paddlepaddle-gpu==2.0.0 -i https://mirror.baidu.com/pypi/simple
+
+# If you only have cpu on your machine, please run the following command to install
+!pip install paddlepaddle==2.0.0 -i https://mirror.baidu.com/pypi/simple
+
+
+
+pip install "paddleocr>=2.0.6" 
+
+
+pip install editdistance
